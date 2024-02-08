@@ -14,7 +14,7 @@ INSERT INTO board_tb(author, title, content) VALUES ('Kenneth', '제목13', '내
 INSERT INTO board_tb(author, title, content) VALUES ('Minsu', '제목15', '내용15');
 INSERT INTO board_tb(author, title, content) VALUES ('Kim', '제목16', '내용16');
 INSERT INTO board_tb(author, title, content) VALUES ('Lee', '제목17', '내용17');
-INSERT INTO board_tb(author, title, content) VALUES ('Yongju', '제목19', '한바퀴 돌 수 있다.');
+INSERT INTO board_tb(author, title, content) VALUES ('Yongju', '제목18', '제목18');
 INSERT INTO board_tb(author, title, content) VALUES ('Denny', '한바퀴 돌 수 있다', '-사무엘존슨-');
 INSERT INTO board_tb(author, title, content) VALUES ('Kim', '하루에 3시간을 걸으면', '7년 후에 지구를');
 INSERT INTO board_tb(author, title, content) VALUES ('Minsu', '나아가 고통을', '즐길 줄 알아야 해');
