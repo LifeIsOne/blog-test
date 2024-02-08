@@ -1,4 +1,4 @@
-server:
+server: #톰캣
   servlet:
     encoding:
       charset: utf-8
