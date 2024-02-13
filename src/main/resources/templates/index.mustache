@@ -22,7 +22,7 @@
             <td>{{author}}</td>
             <td>
                 <div class="d-flex">
-                    <form action="#">
+                    <form action="/board/{{id}}/delete">
                         <button class="btn btn-danger">삭제</button>
                     </form>
                     <form action="/board/1/updateForm" method="get">
@@ -31,8 +31,8 @@
                 </div>
             </td>
         </tr>
-        </tbody>
         {{/boardList}}
+        </tbody>
     </table>
 
 </div>

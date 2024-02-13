@@ -17,4 +17,8 @@ public class BoardRepository {
 
         return query.getResultList();
     }
+
+    public void delete(int id) {
+
+    }
 }
